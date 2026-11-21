@@ -2,6 +2,8 @@
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24415590.svg)](https://doi.org/10.5281/zenodo.24415590)
 
+This result is now maintained in [quadratic-mertens-first-crossings](https://github.com/leecrossley/quadratic-mertens-first-crossings/tree/main/results/split-inert-prime-test-obstruction). This repository is archived and keeps its releases and DOI.
+
 A proposed route to a negative Mertens average uses two inequalities for signed prime sums. If the average stays nonnegative through a long interval, both inequalities must hold. Reversing either one with enough margin would give a negative start. [Original tests](https://github.com/leecrossley/quadratic-mertens-first-crossings/blob/ef3e53c/results/signed-prime-tails/PRIME-TEST.md)
 
 For a genuine positive quadratic discriminant $`d`$, assume RH for the Riemann zeta function and GRH for $`L(s,\chi_d)`$. Alpöge's announced Dirichlet GRH theorem supplies this input. A central zero or a conjugate pair with positive ordinate at most $`\pi/H`$ forces the first sum **below −0.52** for every sufficiently large $`d`$ and $`H\ge4\log(3d)`$. The proposed contradiction would require a value above a threshold near −0.5. [Scalar estimate](PROOF.md#the-scalar-test-in-genuine-fields) · [Announcement](https://alpo.ge/remark.pdf) · [Independent formal checks](https://math.mit.edu/~drew/grh/)
